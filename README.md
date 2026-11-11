@@ -7,7 +7,6 @@ An intelligent, multi-industry social media content generation platform built wi
 ## 🔗 Live Demo & Links
 
 * **Live Web Application:** [https://ai-content-generator-qc6aj4jetc7ktedcrtfjgu.streamlit.app](https://ai-content-generator-qc6aj4jetc7ktedcrtfjgu.streamlit.app)
-* **GitHub Repository:** [https://github.com/kondalohitha123/ai-content-generator](https://github.com/kondalohitha123/ai-content-generator)
 
 ---
 
